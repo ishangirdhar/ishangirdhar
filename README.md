@@ -20,7 +20,7 @@
 
 <br />
 
-[website]: https://www.ishangridhar.com
+[website]: https://www.ishangirdhar.com
 [twitter]: https://twitter.com/ishangirdhar
 [instagram]: https://instagram.com/ishan.girdhar
 [linkedin]: https://linkedin.com/in/ishangirdhar
