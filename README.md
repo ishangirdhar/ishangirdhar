@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ishangirdhar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%ishangirdhar&screen_name=ishangirdhar)
 
 
-## Philomath. Head of Information Security at Zai. Author. Inline Skater. Adrenaline Junkie. Husband. 
+## Philomath. Senior Manager at Accenture. Author. Inline Skater. Adrenaline Junkie. Husband. 
 
 
 🏡 Welcome to my online home.
