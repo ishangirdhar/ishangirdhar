@@ -26,7 +26,7 @@
 
 <br />
 
-[website]: https://www.ishangirdhar.com
+[website]: https://www.ishangirdhar.com?ref=Github
 [twitter]: https://twitter.com/ishangirdhar
 [instagram]: https://instagram.com/ishan.girdhar
 [linkedin]: https://linkedin.com/in/ishangirdhar
