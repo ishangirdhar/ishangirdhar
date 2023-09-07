@@ -1,6 +1,6 @@
 ### Hi there, I'm Ishan [ishangirdhar][website] 👋 
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.ishangirdhar.com)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.ishangirdhar.com&link=https%3A%2F%2Fwww.ishangirdhar.com%2F)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ishangirdhar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%ishangirdhar&screen_name=ishangirdhar)
 
 
