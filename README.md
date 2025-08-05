@@ -8,13 +8,14 @@
 
 🏡 Welcome to my online home.
 
-- 🛡️ Building **Alpha CISO** and **[Extension Auditor](https://extensionauditor.com)** - transforming browser security
-- 🧠 Writing about Information Security, Peak Performance, and Biohacking
+- 🛡️ Protecting organizations from malicious browser extensions
+- 🧠 Writing about Information & Cyber Security, Browser Security, Supply Chain Security
 - 🎯 Track record: Secured fintech platforms processing billions in transactions
 - 🔐 Expertise: Zero Trust Architecture, Bug Bounty Programs, Multi-regional Compliance (MAS TRM, PCI DSS, ISO 27001)
 - 🚀 Built and led security teams of 15+ while maintaining lean budgets
-- 📚 Always learning: Neuroscience, Productivity, Psychology, Flow States, Meditation
+- 📚 Always learning: Security Research, Threat Modeling, Human Psychology, Flow States
 - 🛼 Passionate inline skater and adrenaline junkie
+- 📧 Contact: ishan@alphaciso.com
 
 ### Connect with me:
 [<img align="left" alt="ishangirdhar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
